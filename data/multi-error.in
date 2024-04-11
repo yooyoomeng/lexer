@@ -1,0 +1,20 @@
+var
+    i: integer;
+    
+    i: integer; 
+    
+    
+    a#: integer; 
+    
+    
+    9b: integer; 
+    
+    d: integer
+    dd: integer;
+begin 
+    
+    i := 01; 
+    i := 2;
+    
+    c := 3;
+end 
